@@ -36,4 +36,5 @@ window.onload = () => {
 
     document.querySelector('ul').onclick = (e) => handleClickRemove(e);
     document.getElementById('buttonAdd').onclick = () => handleClickAdd();
+
 }
